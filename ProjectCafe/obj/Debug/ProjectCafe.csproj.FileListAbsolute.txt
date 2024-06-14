@@ -1,0 +1,17 @@
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\bin\Debug\ProjectCafe.exe.config
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\bin\Debug\ProjectCafe.exe
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\bin\Debug\ProjectCafe.pdb
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.csprojAssemblyReference.cache
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.LoginForm.resources
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.Properties.Resources.resources
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.csproj.GenerateResource.cache
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.csproj.CoreCompileInputs.cache
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.exe
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.pdb
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.AboutForm.resources
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.LoadingForm.resources
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.StaffForm.resources
+C:\Users\Sinethemba Gomba\Videos\Workshops\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.OrderForm.resources
+C:\Users\Sinethemba Gomba\Downloads\GMBSIN005_Project_Cafe\GMBSIN005_Project_Cafe\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.csproj.AssemblyReference.cache
+C:\Users\Sinethemba Gomba\Downloads\GMBSIN005_Project_Cafe\GMBSIN005_Project_Cafe\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.exe
+C:\Users\Sinethemba Gomba\Downloads\GMBSIN005_Project_Cafe\GMBSIN005_Project_Cafe\ProjectCafe\ProjectCafe\obj\Debug\ProjectCafe.pdb
