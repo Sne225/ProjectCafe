@@ -5,7 +5,8 @@ This the first program I wrote on the Commercial Programming course. The goal wa
 Below  is the User Interface
 
 ![image](https://github.com/Sne225/ProjectCafe/assets/64343614/a167ace3-044b-4927-850e-4b8da993d3a7)
-![image](https://github.com/Sne225/ProjectCafe/assets/64343614/3705b7fb-17c9-417d-a3c0-a757047db699)
+![Pc](https://github.com/Sne225/ProjectCafe/assets/64343614/54fa64fc-d97e-4567-a83d-3fa7367338fc)
+
 
 
 # Tools Used
