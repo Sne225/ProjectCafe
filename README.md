@@ -1,5 +1,5 @@
 # ProjectCafe
-This the first program I wrote on the Commercial Programming course. The goal was to create a Windows Forms application using C#.
+This the first program I wrote on the Commercial Programming course in 2021. The goal was to create a Windows Forms application using C#.
 
 # Overview
 Below  is the User Interface
